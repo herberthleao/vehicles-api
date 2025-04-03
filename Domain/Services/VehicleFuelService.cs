@@ -8,7 +8,7 @@ namespace VehicleRegistry.Domain.Services;
 /// Serviço de combustível de veículo.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public class VehicleFuelService : Service
 {
     /// <summary>

@@ -8,7 +8,7 @@ namespace VehicleRegistry.Infrastructure.Seeders;
 /// Semeador de marca.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public class BrandSeeder : Seeder
 {
     /// <summary>

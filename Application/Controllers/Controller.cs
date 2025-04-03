@@ -8,7 +8,7 @@ namespace VehicleRegistry.Application.Controllers;
 /// Base para todos os controladores.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public abstract class Controller : ControllerBase
 {
     /// <summary>

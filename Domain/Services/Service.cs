@@ -4,6 +4,6 @@ namespace VehicleRegistry.Domain.Services;
 /// Base para todos os serviços.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public abstract class Service
 {}

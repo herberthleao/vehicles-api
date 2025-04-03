@@ -10,7 +10,7 @@ namespace VehicleRegistry.Infrastructure.Repositories;
 /// Repositório de modelo.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public class ModelRepository : Repository<Model>
 {
     /// <summary>

@@ -13,7 +13,7 @@ namespace VehicleRegistry.Domain.Services;
 /// Serviço de autenticação do usuário.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public class AuthService : Service
 {
     /// <summary>

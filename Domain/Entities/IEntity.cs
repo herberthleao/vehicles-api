@@ -4,7 +4,7 @@ namespace VehicleRegistry.Domain.Entities;
 /// Contrato para entidades.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 interface IEntity
 {
     /// <summary>

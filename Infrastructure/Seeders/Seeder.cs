@@ -6,7 +6,7 @@ namespace VehicleRegistry.Infrastructure.Seeders;
 /// Base para todos os semeadores.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public abstract class Seeder
 {
     /// <summary>

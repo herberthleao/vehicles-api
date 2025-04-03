@@ -4,7 +4,7 @@ namespace VehicleRegistry.Application.Exceptions;
 /// Exceção lançada quando há um dado inválido.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public class ValidationException : Exception
 {
     /// <summary>

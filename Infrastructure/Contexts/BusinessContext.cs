@@ -9,7 +9,7 @@ namespace VehicleRegistry.Infrastructure.Contexts;
 /// Contexto de banco de dados para a lógica de negócio.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public class BusinessContext : DbContext
 {
     /// <summary>

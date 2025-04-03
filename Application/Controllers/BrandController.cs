@@ -10,7 +10,7 @@ namespace VehicleRegistry.Application.Controllers;
 /// Controlador para as rotas de marcas de veículo.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 [ApiController]
 [Route("brands")]
 public class BrandController : Controller

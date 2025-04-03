@@ -8,7 +8,7 @@ namespace VehicleRegistry.Infrastructure.Repositories;
 /// Repositório de marca.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public class BrandRepository : Repository<Brand>
 {
     /// <summary>

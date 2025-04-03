@@ -8,7 +8,7 @@ namespace VehicleRegistry.Infrastructure.Repositories;
 /// Base para todos os repositórios.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public abstract class Repository<TEntity> where TEntity : class
 {
     /// <summary>

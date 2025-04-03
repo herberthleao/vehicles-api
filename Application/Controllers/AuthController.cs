@@ -12,7 +12,7 @@ namespace VehicleRegistry.Application.Controllers;
 /// Controlador para as rotas de autenticação.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 [ApiController]
 [Route("auth")]
 public class AuthController : Controller

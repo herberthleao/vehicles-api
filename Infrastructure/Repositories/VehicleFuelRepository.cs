@@ -8,7 +8,7 @@ namespace VehicleRegistry.Infrastructure.Repositories;
 /// Repositório de combustível de veículo.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public class VehicleFuelRepository : Repository<VehicleFuel>
 {
     /// <summary>

@@ -8,7 +8,7 @@ namespace VehicleRegistry.Domain.Services;
 /// Serviço de proprietário.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public class OwnerService : Service
 {
     /// <summary>

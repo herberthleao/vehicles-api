@@ -6,7 +6,7 @@ namespace VehicleRegistry.Application.DataTransferObjects;
 /// Objeto base de transferência de dados comuns.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public abstract class CommonData : Data
 {
     /// <summary>

@@ -9,7 +9,7 @@ namespace VehicleRegistry.Application.Controllers;
 /// Controlador para as rotas de cores de veículos.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 [ApiController]
 [Route("colors")]
 public class VehicleColorController : Controller

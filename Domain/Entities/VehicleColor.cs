@@ -7,7 +7,7 @@ namespace VehicleRegistry.Domain.Entities;
 /// Entidade de cor do veículo.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public class VehicleColor : IEntity
 {
     /// <summary>

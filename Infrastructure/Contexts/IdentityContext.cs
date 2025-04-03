@@ -9,7 +9,7 @@ namespace VehicleRegistry.Infrastructure.Contexts;
 /// Contexto de banco de dados para a lógica de identidade.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public class IdentityContext : IdentityDbContext<User>
 {
     /// <summary>

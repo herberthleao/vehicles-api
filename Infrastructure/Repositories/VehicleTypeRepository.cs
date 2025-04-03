@@ -8,7 +8,7 @@ namespace VehicleRegistry.Infrastructure.Repositories;
 /// Repositório de tipo de veículo.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public class VehicleTypeRepository : Repository<VehicleType>
 {
     /// <summary>

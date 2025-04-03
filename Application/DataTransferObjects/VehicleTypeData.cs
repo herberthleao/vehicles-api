@@ -4,6 +4,6 @@ namespace VehicleRegistry.Application.DataTransferObjects;
 /// Objeto de transferência de dados de tipo de veículo.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public class VehicleTypeData : CommonData
 {}

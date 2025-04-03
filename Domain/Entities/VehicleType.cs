@@ -7,7 +7,7 @@ namespace VehicleRegistry.Domain.Entities;
 /// Entidade de tipo de veículo.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public class VehicleType : IEntity
 {
     /// <summary>

@@ -9,7 +9,7 @@ namespace VehicleRegistry.Domain.Services;
 /// Serviço de usuário.
 /// </summary>
 /// <author>Herberth Leão</author>
-/// <email>herberth.leao@pm.me</email>
+/// <email>herberth@leao.sh</email>
 public class UserService : Service
 {
     /// <summary>
